@@ -69,7 +69,7 @@ Comparação entre frameworks back-end.
 ## 📫 Contato
 
 📧 Email: erlonsttpro2018@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/erlonmt
+💼 LinkedIn: https://linkedin.com/in/erlonmt  
 🐙 GitHub: https://github.com/erlonmt
 
 ---
