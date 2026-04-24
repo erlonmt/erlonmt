@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de desenvolvimento de software, com foco em **back-end** e **aplicações web/mobile**.  
+Sou estudante de desenvolvimento de software, com foco em **back-end**.  
 Estou sempre buscando evoluir minhas habilidades e construir projetos práticos.
 
 ---
@@ -20,14 +20,13 @@ Estou sempre buscando evoluir minhas habilidades e construir projetos práticos.
 - Java (Spring Boot)
 - MySQL
 
-### 🌐 Front-end / Mobile
+### 🌐 Front-end
 - Angular
-- Ionic
 - HTML, CSS, JavaScript
 
 ### ⚙️ Ferramentas
 - Git & GitHub
-- Linux (Arch / Ubuntu)
+- Linux
 - VS Code
 
 ---
