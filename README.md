@@ -6,7 +6,7 @@
 
 Brasil | Node.js | Java | Spring Boot | Angular | MySQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-erlonmt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erlonmt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-erlon--matheus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlon-matheus/)
 [![GitHub](https://img.shields.io/badge/GitHub-erlonmt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erlonmt)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erlonsttpro2018@gmail.com)
 
@@ -74,7 +74,7 @@ Meu objetivo é conquistar minha primeira oportunidade como **desenvolvedor** e 
 ## Contato
 
 - Email: [erlonsttpro2018@gmail.com](mailto:erlonsttpro2018@gmail.com)
-- LinkedIn: [linkedin.com/in/erlonmt](https://linkedin.com/in/erlonmt)
+- LinkedIn: [linkedin.com/in/erlon-matheus](https://www.linkedin.com/in/erlon-matheus/)
 - GitHub: [github.com/erlonmt](https://github.com/erlonmt)
 
 ---
