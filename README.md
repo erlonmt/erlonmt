@@ -147,18 +147,6 @@ Atualmente, concentro meus estudos e projetos principalmente nas seguintes área
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erlonmt&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlonmt&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
 ## Contato
 
 Tenho interesse em oportunidades de **estágio ou posições de Desenvolvedor Back-end Júnior / Desenvolvedor Full Stack Júnior**.
